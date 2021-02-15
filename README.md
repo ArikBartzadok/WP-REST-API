@@ -16,7 +16,7 @@ This API was developed with **PHP 7.0**.
 ## Clone
 
 ```
-$ git clone git@github.com:ArikBartzadok/Gooxgle.git
+$ git clone git@github.com:ArikBartzadok/WP-REST-API.git
 # Recommend you to delete `.git`
 $ cd <<PROJECT_NAME>> && rm -r .git
 ```
@@ -31,7 +31,7 @@ $ mv Api/ << PROJECT_FOLDER >>/wp-content/themes/
 $ cp -r Api/ << PROJECT_FOLDER >>/wp-content/themes/
 ```
 
-Finally, just activate the 'Api' theme on the Wordpress administration page, in ~~Side menu > Appearence~~ .
+Finally, just activate the 'Api' theme on the Wordpress administration page, in "Side menu > Appearence".
 
 And voilà, your REST API is active!
 
